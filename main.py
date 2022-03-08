@@ -8,5 +8,3 @@ while True:
 
     cliente = Hospede (nome, quarto, estrelas, tempo_estadia)
     break
-
-print (cliente.nome)
